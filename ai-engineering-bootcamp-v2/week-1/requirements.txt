@@ -1,5 +1,7 @@
 fastapi[standard]
 httpx
+langchain-text-splitters>=1.0,<2
 openai
+pinecone>=10.3,<11
 python-dotenv
 streamlit
