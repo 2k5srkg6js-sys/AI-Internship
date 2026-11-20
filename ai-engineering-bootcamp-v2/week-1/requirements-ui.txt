@@ -1,0 +1,6 @@
+# Dependencies for the Streamlit UI only (streamlit_app.py).
+# The FastAPI service on Render uses requirements.txt.
+#   pip install -r requirements-ui.txt
+streamlit>=1.67,<2
+httpx>=0.28,<1
+python-dotenv>=1.2,<2
