@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# Safety net: secrets belong in week-1/.env, never in week-3.
+.env

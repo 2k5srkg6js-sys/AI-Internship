@@ -1,0 +1,5 @@
+# Week 3 agent. Also needs the week-1 dependencies (used by week-1/rag.py and vector_store.py).
+# From the repo root:
+#   pip install -r ai-engineering-bootcamp-v2/week-1/requirements.txt -r ai-engineering-bootcamp-v2/week-3/agent/requirements.txt
+google-adk==2.15.1
+google-genai==2.34.0
